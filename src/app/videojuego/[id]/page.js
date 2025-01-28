@@ -78,7 +78,7 @@ useEffect(() => {
 
   return (
     <div>
-      <h1>Editar Videojuego</h1>
+      <h1>Detalle y Edición Videojuego</h1>
       <form onSubmit={actualizarVideojuego}>
         <label>Título:</label>
         <input

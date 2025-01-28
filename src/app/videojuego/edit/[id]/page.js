@@ -67,7 +67,7 @@ export default function EditVideojuego() {
 
   return (
     <div>
-      <h1>Editar Videojuego</h1>
+      <h1>Detalle y Edición del Videojuego</h1>
       <form onSubmit={handleSubmit}>
         <label>Nombre:</label>
         <input
